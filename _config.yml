@@ -30,7 +30,7 @@ github_username:  sarahmughal
 linkedin_username: sarahmughal
 
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
