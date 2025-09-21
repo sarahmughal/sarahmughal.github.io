@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: projects
+permalink: /projects/
 ---
 
 <div class="home">
-  <h2>Under construction!</h2>
+  <h2>still under construction!</h2>
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
