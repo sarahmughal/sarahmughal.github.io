@@ -17,9 +17,8 @@ even as an introvert at heart, i love meeting new people! if you’ve read this 
 
 for a fuller professional overview, check out my [LinkedIn](https://www.linkedin.com/in/sarah-mughal/).
 
-here’s my [résumé](https://docs.google.com/document/d/1gRJNAIusynLSAAS76YAUPq4-yILKTqOVpU9W9CisGbg/edit?tab=t.0).
+here’s my [resumé](https://docs.google.com/document/d/1gRJNAIusynLSAAS76YAUPq4-yILKTqOVpU9W9CisGbg/edit?tab=t.0).
 
-## Contact
 i’m also always open to opportunity; specifically, i’m interested in bioinformatics, public health, and data science internships for summer 2026.
 
 message me on [email](mailto:sarah.mughal@ucsf.edu).
