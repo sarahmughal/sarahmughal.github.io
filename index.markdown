@@ -12,7 +12,7 @@ i use she/her pronouns. my curiosities wander toward diversity, equity & inclusi
 
 most days you’ll catch me with a salt & stone candle burning (santal + vetiver, always) while i’m either scrolling through pinterest crafting a perfect board that encompasses the upcoming season (all the hex codes have to match) or reading the newest y/a book about a summer romance... with a dark twist, of course
 
-## Contact
+## contact
 even as an introvert at heart, i love meeting new people! if you’ve read this far, please say hi :) let’s chat about anything from liquid biopsies to houseplants to one direction.
 
 for a fuller professional overview, check out my [LinkedIn](https://www.linkedin.com/in/sarah-mughal/).
